@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Paprika-Regular
+font link: https://fonts.google.com/specimen/Paprika
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+
+icon designer: Aaron Dodson
+icon designer link: /creator/AaronDodson/
+        
+{"bg-gradient-0":"#462AB9","bg-gradient-1":"#737048","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
